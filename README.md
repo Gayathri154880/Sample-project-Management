@@ -1,11 +1,17 @@
 # Sample-project-Management
-This repository contains a simple project demonstrating Agile  workflow using GitHub.
+# Student Grade Calculator
 
-This is a project showing how to use "Github issue","project boards".
+A simple Python program that calculates student grades based on their scores.
 
-#project goal 
-A simple python program to calculate student grades
+## Features
+- Calculates average score and assigns letter grade (A–F)
+- Handles multiple students
+- Easy to run and modify
 
-#Tools
-Github
-python
+## How to Run
+1. Make sure you have **Python 3.8+** installed.
+2. Clone or download this repository.
+3. Run the script in a terminal:
+
+```bash
+python student_grade_calculator.py
