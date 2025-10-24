@@ -9,9 +9,9 @@ A simple Python program that calculates student grades based on their scores.
 - Easy to run and modify
 
 # How to Run
-1. Make sure you have **Python 3.8+** installed.
-2. Clone or download this repository.
-3. Run the script in a terminal:
-
-```bash
+1. clone the respository
+2. https://github.com/Gayathri154880/Sample-project-Management
+3. Open terminal inside the project folder
+4.cd Sample-project-Management
+Run:
 python student_grade_calculator.py
